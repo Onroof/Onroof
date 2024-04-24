@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h1>Hello everyone!</h1>
-    <h3>I am a Social Data Scientist who focuses on analysis and prediction of legislative powers' performance in Russia </h3>
+    <h3>I am a Social Data Scientist who focuses on <br>
+        analysis and prediction of legislative powers' performance in Russia </h3>
 </div>
 
 <div id="socials" align="center">
